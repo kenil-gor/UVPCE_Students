@@ -94,7 +94,7 @@ body{
 }
 
 .btn:hover::before{
-    transition: .3s linear;
+    transition: .7s linear;
     left: 120%;
 }
 .card,
